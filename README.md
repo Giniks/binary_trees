@@ -94,3 +94,9 @@ How to Use `binary_tree_insert_left`
 4. Check both syntax and compilation error 
 
    NOTE: If the `parent` node already has a left child, the new node will take its place, and the old left child will become the left child of the new node.
+
+Task 2
+Inserting a Right Child Node in a Binary Tree - C Function 
+
+The `binary_tree_insert_right`, designed to insert a new node as the right child of an existing node within a binary tree. This will expand the binary tree's right data structure and also manipulate it.  Below, you'll find a concise description of how to use this function effectively.
+
