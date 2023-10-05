@@ -62,4 +62,7 @@ Handling Failure:
 
 • It's essential if your Your function must return a pointer to the new node, or NULL on failure
 
-Working with the new  node 
+Working with the new  node  
+
+
+Once you have a pointer to the newly created node, you can manipulate the binary tree by attaching it to other nodes as left or right children or using it in various binary tree algorithms.
