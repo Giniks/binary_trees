@@ -142,3 +142,23 @@ How to Use `binary_tree_delete`
 
    The function automatically checks if `tree` is `NULL` and takes no action if `tree` is already empty.
 
+
+Task 4
+Checking if a Node is a Leaf in a Binary Tree - C 
+
+The binary_tree_is_leaf`, which verifies whether a given node in a binary tree is a leaf node. A leaf node is a node that has no left or right children. The function accepts a pointer to the node to check and returns `1` if the node is a leaf and `0` otherwise. If the input node is `NULL`, the function also returns `0`. Below, you'll find a concise description of how to use this function effectively.
+
+
+int binary_tree_is_leaf(const binary_tree_t *node);
+
+
+Parameter:
+- `node`: A pointer to the node you want to check if it's a leaf. 
+
+How to Use `binary_tree_is_leaf` 
+
+1. Including the Header File 
+
+2. Checking if a Node is a Leaf
+3. Handling NULL Nodes
+
