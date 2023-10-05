@@ -65,4 +65,9 @@ Handling Failure:
 Working with the new  node  
 
 
-Once you have a pointer to the newly created node, you can manipulate the binary tree by attaching it to other nodes as left or right children or using it in various binary tree algorithms.
+Once you have a pointer to the newly created node, you can manipulate the binary tree by attaching it to other nodes as left or right children or using it in various binary tree e alogrithm
+
+• However,  for this particular task, the created node does not have any child..
+
+
+Task 1
