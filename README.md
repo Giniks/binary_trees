@@ -100,3 +100,14 @@ Inserting a Right Child Node in a Binary Tree - C Function
 
 The `binary_tree_insert_right`, designed to insert a new node as the right child of an existing node within a binary tree. This will expand the binary tree's right data structure and also manipulate it.  Below, you'll find a concise description of how to use this function effectively.
 
+binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value);
+```
+Parameters:
+- `parent`: A pointer to the node where the new right child will be inserted.
+- `value`: The value to store in the new right child node. 
+
+Return Value:
+• - Your function must return a pointer to the created node, or NULL on failure or if parent is NULL 
+
+• If parent already has a right-child, the new node must take its place, and the old right-child must be set as the right-child of the new node.
+
