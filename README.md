@@ -23,4 +23,6 @@ Key Topics Covered:
 
 5. Traversal Method
 
-	- Master 
+	- Master various traversal techniques like inorder, preorder, and postorder to navigate and manipulate Binary Tree effectively.
+
+6. Types of Binary Trees 
