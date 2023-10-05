@@ -80,4 +80,9 @@ Parameters:
 
 - `parent`: A pointer to the node to insert the left-child in
 - `value`: The value to store in the new left child node.
- 
+
+Return Value:
+- The function returns a pointer to the newly created node.
+- In case of failure or if `parent` is `NULL`, it returns `NULL`. 
+
+How to Use `binary_tree_insert_left` 
