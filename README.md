@@ -1,40 +1,38 @@
-Project Title: C - Binary Trees.
+# Project Title: C - Binary Trees.
 
-Overview
+## Overview
 
 You are welcome to the C - Binar Trees Project. This team project will introduce you to the world of Binary Trees and its relevance in computer science. This project is suitable for beginners and professionals.
 
 
-Key Topics Covered:
+## Key Topics Covered:
 
-1. Binary Tree
+### 1. Binary Tree
 	- Learn the Basics of what defines a binary tree and its hierachichal structure.
 
-2. Binary Tree vs Binary Search Tree(BST)
+### 2. Binary Tree vs Binary Search Tree(BST)
 	- Understand the key distinction between a Binary Tree and a Binary Search Tree(BST) and when to use each of them.
 
-3. Time Complexity Advantage.
+### 3. Time Complexity Advantage.
 
 	- Explore the potential gains interms of time compkexity when using Binary Trees over linked lists for specific operations. 
 
-4. Tree properties
+### 4. Tree properties
 
 	- Discover essential properties of Binary Trees, including depth, height, and size, and how these metrics affect performance. 
 
-5. Traversal Method
+### 5. Traversal Method
 
 	- Master various traversal techniques like inorder, preorder, and postorder to navigate and manipulate Binary Tree effectively.
 
-6. Types of Binary Trees
+### 6. Types of Binary Trees
 
 	- Dive into the concept of full, complete, perfect, and balance binary trees, gaining insights into their characteristics and used cases.
 
 with this detailed guide, you will gain the knowledge and experience on Binary trees and how it works with data structure and alogrithm.
 
-Happy coding!
 
-
-ompliance to Syntax and Compilation Error.
+## Compliance to Syntax and Compilation Error.
 
 1. we will use betty style. It will be checked using betty-style.pl and betty-doc.pl for syntax error. 
 
@@ -42,11 +40,11 @@ ompliance to Syntax and Compilation Error.
 2. All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 
 
-Header File
+## Header File
 
 Make sure to include the binary_trees.h header file in your project, which should contain the prototype for the Binary tree node function.
 
-Task 0 New node
+## Task 0 New node
 
 Creating a new node:
 
@@ -70,7 +68,7 @@ Once you have a pointer to the newly created node, you can manipulate the binary
 • However,  for this particular task, the created node does not have any child..
 
 
-Task 1
+# Task 1
 
 Insertinng a left child node in a Binaryy   tree   - C The 'binary_tree_insert_left`, designed to insert a new node as the left child of an existing node within a binary tree. This will manipulate the binary tree data structure and expand it
 This is the prototype below
@@ -93,9 +91,9 @@ How to Use `binary_tree_insert_left`
 3. Replacing Existing Left Child
 4. Check both syntax and compilation error 
 
-   NOTE: If the `parent` node already has a left child, the new node will take its place, and the old left child will become the left child of the new node.
+**NOTE:** If the `parent` node already has a left child, the new node will take its place, and the old left child will become the left child of the new node.
 
-Task 2
+## Task 2
 Inserting a Right Child Node in a Binary Tree - C Function 
 
 The `binary_tree_insert_right`, designed to insert a new node as the right child of an existing node within a binary tree. This will expand the binary tree's right data structure and also manipulate it.  Below, you'll find a concise description of how to use this function effectively.
@@ -121,7 +119,7 @@ How to Use `binary_tree_insert_right`
 
 4. Replacing Existing Right Child
 
-Task 3 
+## Task 3 
 
 Deleting an Entire Binary Tree - C Function 
 
@@ -140,10 +138,10 @@ How to Use `binary_tree_delete`
 
 3. Handling NULL Trees 
 
-   The function automatically checks if `tree` is `NULL` and takes no action if `tree` is already empty.
+The function automatically checks if `tree` is `NULL` and takes no action if `tree` is already empty.
 
 
-Task 4
+## Task 4
 Checking if a Node is a Leaf in a Binary Tree - C 
 
 The binary_tree_is_leaf`, which verifies whether a given node in a binary tree is a leaf node. A leaf node is a node that has no left or right children. The function accepts a pointer to the node to check and returns `1` if the node is a leaf and `0` otherwise. If the input node is `NULL`, the function also returns `0`. Below, you'll find a concise description of how to use this function effectively.
@@ -161,4 +159,3 @@ How to Use `binary_tree_is_leaf`
 
 2. Checking if a Node is a Leaf
 3. Handling NULL Nodes
-
