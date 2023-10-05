@@ -111,3 +111,12 @@ Return Value:
 
 • If parent already has a right-child, the new node must take its place, and the old right-child must be set as the right-child of the new node.
 
+How to Use `binary_tree_insert_right` 
+
+1. Including the Header File 
+
+2. Inserting a New Right Child 
+
+3. Handling Failure 
+
+4. Replacing Existing Right Child
