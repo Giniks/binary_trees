@@ -46,3 +46,16 @@ Header File
 
 Make sure to include the binary_trees.h header file in your project, which should contain the prototype for the Binary tree node function.
 
+Task 0 New node
+
+Creating a new node:
+
+start by calling the binary tree node function, passing the parent node and value that are needed to assigned to the new node.
+
+For example:
+
+binary_tree_t *createnewNode = binary_tree_node(parent, 42); 
+
+This code create a new  node   with  the value of 42 and attachws it to a parent node.
+
+
