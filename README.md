@@ -12,3 +12,15 @@ Key Topics Covered:
 
 2. Binary Tree vs Binary Search Tree(BST)
 	- Understand the key distinction between a Binary Tree and a Binary Search Tree(BST) and when to use each of them.
+
+3. Time Complexity Advantage.
+
+	- Explore the potential gains interms of time compkexity when using Binary Trees over linked lists for specific operations. 
+
+4. Tree properties
+
+	- Discover essential properties of Binary Trees, including depth, height, and size, and how these metrics affect performance. 
+
+5. Traversal Method
+
+	- Master 
