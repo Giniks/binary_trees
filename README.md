@@ -34,4 +34,6 @@ with this detailed guide, you will gain the knowledge and experience on Binary t
 Happy coding!
 
 
+ompliance to Syntax and Compilation Error.
 
+1. we will use betty style
