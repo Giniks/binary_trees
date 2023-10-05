@@ -29,4 +29,9 @@ Key Topics Covered:
 
 	- Dive into the concept of full, complete, perfect, and balance binary trees, gaining insights into their characteristics and used cases.
 
-with this detailed guide
+with this detailed guide, you will gain the knowledge and experience on Binary trees and how it works with data structure and alogrithm.
+
+Happy coding!
+
+
+
