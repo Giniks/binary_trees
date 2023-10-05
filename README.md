@@ -25,4 +25,8 @@ Key Topics Covered:
 
 	- Master various traversal techniques like inorder, preorder, and postorder to navigate and manipulate Binary Tree effectively.
 
-6. Types of Binary Trees 
+6. Types of Binary Trees
+
+	- Dive into the concept of full, complete, perfect, and balance binary trees, gaining insights into their characteristics and used cases.
+
+with this detailed guide
