@@ -86,3 +86,11 @@ Return Value:
 - In case of failure or if `parent` is `NULL`, it returns `NULL`. 
 
 How to Use `binary_tree_insert_left` 
+
+1. Include the Header File 
+
+2. Insert the New Left Child**
+3. Replacing Existing Left Child
+4. Check both syntax and compilation error 
+
+   NOTE: If the `parent` node already has a left child, the new node will take its place, and the old left child will become the left child of the new node.
