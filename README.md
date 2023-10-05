@@ -71,3 +71,7 @@ Once you have a pointer to the newly created node, you can manipulate the binary
 
 
 Task 1
+
+Insertinng a left child node in a Binaryy   tree   - C The 'binary_tree_insert_left`, designed to insert a new node as the left child of an existing node within a binary tree. This will manipulate the binary tree data structure and expand it
+This is the prototype below
+binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value); 
