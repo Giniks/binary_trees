@@ -120,3 +120,25 @@ How to Use `binary_tree_insert_right`
 3. Handling Failure 
 
 4. Replacing Existing Right Child
+
+Task 3 
+
+Deleting an Entire Binary Tree - C Function 
+
+The binary_tree_delete`, designed to delete an entire binary tree efficiently. The function accepts a pointer to the root node of the tree to be deleted and recursively deallocates all memory associated with the tree nodes. Below, you'll find a concise description of how to use this function effectively. 
+
+void binary_tree_delete(binary_tree_t *tree);
+
+Parameter:
+- `tree`: A pointer to the root node of the binary tree to delete. 
+
+How to Use `binary_tree_delete` 
+
+1. Including the Header File 
+
+2. Deleting the Binary Tree 
+
+3. Handling NULL Trees 
+
+   The function automatically checks if `tree` is `NULL` and takes no action if `tree` is already empty.
+
