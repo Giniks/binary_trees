@@ -58,4 +58,8 @@ binary_tree_t *createnewNode = binary_tree_node(parent, 42);
 
 This code create a new  node   with  the value of 42 and attachws it to a parent node.
 
+Handling Failure:
 
+• It's essential if your Your function must return a pointer to the new node, or NULL on failure
+
+Working with the new  node 
