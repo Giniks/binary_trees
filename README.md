@@ -36,4 +36,13 @@ Happy coding!
 
 ompliance to Syntax and Compilation Error.
 
-1. we will use betty style
+1. we will use betty style. It will be checked using betty-style.pl and betty-doc.pl for syntax error. 
+
+
+2. All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+
+
+Header File
+
+Make sure to include the binary_trees.h header file in your project, which should contain the prototype for the Binary tree node function.
+
